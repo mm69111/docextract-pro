@@ -1,0 +1,8 @@
+{
+  "name": "docextract-pro",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'No build needed'"
+  }
+}
